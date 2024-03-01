@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaya</h1>
-<h3 align="center">A freelance deveeloper based in Jamaica</h3>
+<h3 align="center">A freelance developer based in Jamaica</h3>
 
 - 🔭 I’m currently working on **Building my portfolio**
 
