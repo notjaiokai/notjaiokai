@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaya</h1>
-<h3 align="center">I'm a second year computer science student and founder of Kosmik studio</h3>
+<h3 align="center">I'm a third year electrical engineering major and founder of Kosmik studio</h3>
 <img align="center" src=https://usagif.com/wp-content/uploads/gifs/starfall-gif-46.gif>
 
 - 🌱 I’m currently learning **Java**
